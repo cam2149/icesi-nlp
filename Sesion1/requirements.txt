@@ -18,6 +18,6 @@ gradio==4.36.1
 ollama==0.2.1
 spacy==3.8.7
 nltk==3.9.1
-kaggle
-vaderSentiment
-tqdm
+kaggle==6.2.0
+vaderSentiment==3.3.2
+tqdm==4.67.1
