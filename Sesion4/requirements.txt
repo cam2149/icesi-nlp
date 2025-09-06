@@ -16,4 +16,4 @@ evaluate==0.4.2
 sentence-transformers==3.0.1
 gradio==4.36.1
 ollama==0.2.1
-pyarrow
+protobuf==5.29.4
